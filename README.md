@@ -29,7 +29,14 @@ Flatten Layer - Flattening is converting the data into a 1-dimensional array for
 Dense Layer - The dense layer is a neural network layer that is connected deeply, which means each neuron in the dense layer receives input from all neurons of its previous layer.
 Activation Function(ReLU) - The rectified linear activation function or ReLU for short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero.The rectified linear activation function overcomes the vanishing gradient problem, allowing models to learn faster and perform better.
 Activation Function(Softmax) - The softmax function is used as the activation function in the output layer of neural network models that predict a multinomial probability distribution. The main advantage of using Softmax is the output probabilities range. The range will 0 to 1, and the sum of all the probabilities will be equal to one.
+
 Model Architecture
+
+
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/55ab82fe-aae4-4511-b1e2-bb461b7ff37c" />
+
+
 Model Evaluation
+
+
 <img width="702" alt="image" src="https://github.com/user-attachments/assets/2b29c6d1-3266-420a-9358-569a0a68af28" />
